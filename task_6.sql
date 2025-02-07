@@ -1,4 +1,5 @@
 #Write a script that inserts multiple rows in the table customer (database alx_book_store) in your MySQL server.
+
 INSERT INTO customer (customer_id , customer_name , email , address)
 VALUES
 (2 , "Blessing Malik" , "bmalik@sandtech.com" , "124 Happiness  Ave."),
